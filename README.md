@@ -1,1 +1,1 @@
-# Blockchain-Node-IPs
+# Chain-node-IPs
